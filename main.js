@@ -158,16 +158,16 @@ const quotes = [
 
 
 const authors = [
-  "Adnan", "Adnan", "Adnan", "Adnan", "Adnan",
-  "Adnan", "Adnan", "Adnan", "Adnan", "Adnan",
-  "Adnan", "Adnan", "Adnan", "Adnan", "Adnan",
-  "Adnan", "Adnan", "Adnan", "Adnan", "Adnan",
-  "Adnan", "Adnan", "Adnan", "Adnan", "Adnan",
-  "Adnan", "Adnan", "Adnan", "Adnan", "Adnan",
-  "Adnan", "Adnan", "Adnan", "Adnan", "Adnan",
-  "Adnan", "Adnan", "Adnan", "Adnan", "Adnan",
-  "Adnan", "Adnan", "Adnan", "Adnan", "Adnan",
-  "Adnan", "Adnan", "Adnan", "Adnan", "Adnan"
+  "- Adnan Ali", "- Adnan Ali", "- Adnan Ali", "- Adnan Ali", "- Adnan Ali",
+  "- Adnan Ali", "- Adnan Ali", "- Adnan Ali", "- Adnan Ali", "- Adnan Ali",
+  "- Adnan Ali", "- Adnan Ali", "- Adnan Ali", "- Adnan Ali", "- Adnan Ali",
+  "- Adnan Ali", "- Adnan Ali", "- Adnan Ali", "- Adnan Ali", "- Adnan Ali",
+  "- Adnan Ali", "- Adnan Ali", "- Adnan Ali", "- Adnan Ali", "- Adnan Ali",
+  "- Adnan Ali", "- Adnan Ali", "- Adnan Ali", "- Adnan Ali", "- Adnan Ali",
+  "- Adnan Ali", "- Adnan Ali", "- Adnan Ali", "- Adnan Ali", "- Adnan Ali",
+  "- Adnan Ali", "- Adnan Ali", "- Adnan Ali", "- Adnan Ali", "- Adnan Ali",
+  "- Adnan Ali", "- Adnan Ali", "- Adnan Ali", "- Adnan Ali", "- Adnan Ali",
+  "- Adnan Ali", "- Adnan Ali", "- Adnan Ali", "- Adnan Ali", "- Adnan Ali"
 ];
 
 
