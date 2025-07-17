@@ -108,18 +108,29 @@ const authors = [
 
 
 
+
+//Random Quote on reload
+
+document.addEventListener('DOMContentLoaded', (() => {
+
+let random = Math.floor(Math.random() * quotes.length);
+
+let quote_text = document.getElementById('quote').textContent = `"${quotes[random]}"`;
+let author_text = document.querySelector('#author').textContent = authors[random];
+
 let button = document.querySelector('#newQuote');
 
 button.addEventListener('click', runEvent);
 
 function runEvent (e) {
- 
-let random = Math.floor(Math.random() * quotes.length);
 
-  let quote = document.querySelector('#quote').textContent = `"${quotes[random]}"`;
+  random = Math.floor(Math.random() * quotes.length);
 
-  let author = document.querySelector('#author').textContent = authors[random];
+  document.querySelector('#quote').textContent = `"${quotes[random]}"`;
+
+  document.querySelector('#author').textContent = authors[random];
 
 }
 
+}))
 
